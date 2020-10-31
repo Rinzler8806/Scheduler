@@ -6,3 +6,4 @@ The user can enter whatever activities they would like for a specific hour and t
 
 Please visit the following address to update your daily schedule! https://rinzler8806.github.io/Scheduler/
 
+![](scheduler.png)

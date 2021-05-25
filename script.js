@@ -13,8 +13,8 @@ function hour() {
         var time = $(".time-block").attr("id")
         var textareaId = "#textarea" + i
         var event = localStorage.getItem(i + 9);
-    if (event !== null) {
-        $(`#${i + 9} textarea`).val(event)
+        if (event !== null) {
+            $(`#${i + 9} textarea`).val(event)
         }
     }
 }
